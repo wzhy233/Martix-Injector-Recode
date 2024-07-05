@@ -2,6 +2,8 @@
 
 ## Made by wzhy233
 
+### Martix Injector is now open source!
+
 Martix Injector developed with .NET8.0.
 
 Equipment Requirements : Requires win10 and above , .NET8.0 desktop or later installed
