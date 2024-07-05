@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Martix Injector", "Martix Injector.csproj", "{6746D054-B779-4A7C-A845-CFE2E13986D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6746D054-B779-4A7C-A845-CFE2E13986D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6746D054-B779-4A7C-A845-CFE2E13986D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6746D054-B779-4A7C-A845-CFE2E13986D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6746D054-B779-4A7C-A845-CFE2E13986D6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F78F20C4-E753-4872-9B51-D4D4A83EE61B}
+	EndGlobalSection
+EndGlobal
