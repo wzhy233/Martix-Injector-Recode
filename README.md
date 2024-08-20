@@ -1,6 +1,5 @@
 # Martix Injector
 
-## Made by wzhy233
 
 ### Martix Injector is now open source!
 
